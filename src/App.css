@@ -203,6 +203,8 @@ section p {
 }
 
 .contact-list a {
+  font-weight: 600;
+  text-decoration: none;
   color: var(--color-accent);
 }
 

@@ -88,7 +88,7 @@ function App() {
             <li className="project-item">
               <h3>WetLook BMX Clothing</h3>
               <p>
-                A product showcase demo with responsive frontend, modern layout,
+                A BMX showcase demo with responsive frontend, modern layout,
                 and branding-aligned UI.
               </p>
               <p>
@@ -106,7 +106,7 @@ function App() {
             <li className="project-item">
               <h3>JaihoSlots</h3>
               <p>
-                A slot machine game built with pure HTML and CSS, featuring a
+                A slot machine game built with HTML, CSS and JS, featuring a
                 responsive UI that provides information about the games.
               </p>
               <p>
@@ -156,14 +156,14 @@ function App() {
 
           <ul className="contact-list">
             <li>
-              <strong>Email:</strong>{" "}
-              <a href="mailto:codingbrain01@gmail.com">
-                codingbrain01@gmail.com
+              <a
+                href="https://contact-me.page.gd/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="View Landing Card"
+              >
+                Contact Me
               </a>
-            </li>
-            <li>
-              <strong>Phone:</strong>{" "}
-              <a href="tel:+639062296205">+63 906 229 6205</a>
             </li>
           </ul>
         </section>
